@@ -1,3 +1,21 @@
-System,Avg_Comprehensiveness,Avg_Faithfulness,Avg_MultiHop_Reasoning,Avg_Latency_s,Avg_Tokens
-Flat RAG,4.8,4.88,4.76,2.25,932.9
-Hybrid GraphRAG,4.76,4.8,4.72,1.98,907.9
+Loại câu hỏi,Metric,Flat RAG,GraphRAG,Delta (Graph - Flat),Nhận xét phân tích
+cross-doc,Comprehensiveness,3.182,4.545,1.364,GraphRAG cải thiện rõ; kiểm tra rationale và provenance.
+cross-doc,Faithfulness,3.182,4.727,1.545,GraphRAG cải thiện rõ; kiểm tra rationale và provenance.
+cross-doc,Multi-hop reasoning,3.182,4.545,1.364,GraphRAG cải thiện rõ; kiểm tra rationale và provenance.
+cross-doc,Latency (s),1.927,4.596,2.669,GraphRAG tốn thêm 139% — chi phí của subgraph context.
+cross-doc,Token usage,717.273,875.909,158.636,GraphRAG tốn thêm 22% — chi phí của subgraph context.
+factoid,Comprehensiveness,5.0,5.0,0.0,Hai phương pháp gần nhau.
+factoid,Faithfulness,5.0,5.0,0.0,Hai phương pháp gần nhau.
+factoid,Multi-hop reasoning,5.0,5.0,0.0,Hai phương pháp gần nhau.
+factoid,Latency (s),1.227,3.134,1.907,GraphRAG tốn thêm 156% — chi phí của subgraph context.
+factoid,Token usage,762.5,873.0,110.5,GraphRAG tốn thêm 14% — chi phí của subgraph context.
+multi-hop,Comprehensiveness,3.333,3.667,0.333,Hai phương pháp gần nhau.
+multi-hop,Faithfulness,3.417,3.667,0.25,Hai phương pháp gần nhau.
+multi-hop,Multi-hop reasoning,3.333,3.583,0.25,Hai phương pháp gần nhau.
+multi-hop,Latency (s),2.95,4.978,2.028,GraphRAG tốn thêm 69% — chi phí của subgraph context.
+multi-hop,Token usage,751.583,834.083,82.5,GraphRAG tốn thêm 11% — chi phí của subgraph context.
+ALL,Comprehensiveness,3.4,4.16,0.76,GraphRAG cải thiện rõ; kiểm tra rationale và provenance.
+ALL,Faithfulness,3.44,4.24,0.8,GraphRAG cải thiện rõ; kiểm tra rationale và provenance.
+ALL,Multi-hop reasoning,3.4,4.12,0.72,Hai phương pháp gần nhau.
+ALL,Latency (s),2.362,4.662,2.3,GraphRAG tốn thêm 97% — chi phí của subgraph context.
+ALL,Token usage,737.36,855.6,118.24,GraphRAG tốn thêm 16% — chi phí của subgraph context.

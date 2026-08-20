@@ -1,0 +1,441 @@
+left_row_id,right_row_id,left_id,left_title,right_id,right_title,jaccard_est,decision
+32,302,r00032,Tech Media & Telecom Roundup: Market Talk,r00302,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+32,1423,r00032,Tech Media & Telecom Roundup: Market Talk,r01423,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+32,1804,r00032,Tech Media & Telecom Roundup: Market Talk,r01804,Tech Media & Telecom Roundup: Market Talk,0.7969,NEAR_DUP_REJECT
+32,1852,r00032,Tech Media & Telecom Roundup: Market Talk,r01852,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+32,1865,r00032,Tech Media & Telecom Roundup: Market Talk,r01865,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+32,1894,r00032,Tech Media & Telecom Roundup: Market Talk,r01894,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+32,1895,r00032,Tech Media & Telecom Roundup: Market Talk,r01895,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+32,2071,r00032,Tech Media & Telecom Roundup: Market Talk,r02071,Tech Media & Telecom Roundup: Market Talk,0.8125,NEAR_DUP_REJECT
+32,2208,r00032,Tech Media & Telecom Roundup: Market Talk,r02208,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+32,2224,r00032,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.7656,NEAR_DUP_REJECT
+32,2363,r00032,Tech Media & Telecom Roundup: Market Talk,r02363,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+32,2494,r00032,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+32,2496,r00032,Tech Media & Telecom Roundup: Market Talk,r02496,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+32,2501,r00032,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+32,2535,r00032,Tech Media & Telecom Roundup: Market Talk,r02535,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+32,2585,r00032,Tech Media & Telecom Roundup: Market Talk,r02585,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+32,2624,r00032,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+32,2867,r00032,Tech Media & Telecom Roundup: Market Talk,r02867,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+32,2890,r00032,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+32,2902,r00032,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+32,2906,r00032,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+32,2967,r00032,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.7969,NEAR_DUP_REJECT
+32,3004,r00032,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.7812,NEAR_DUP_REJECT
+32,3052,r00032,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+32,3083,r00032,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.7656,NEAR_DUP_REJECT
+32,3163,r00032,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.7812,NEAR_DUP_REJECT
+32,3286,r00032,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.7656,NEAR_DUP_REJECT
+32,3323,r00032,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.75,NEAR_DUP_REJECT
+32,3348,r00032,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+32,3374,r00032,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+33,1746,r00033,Aeris to Acquire IoT Business from Ericsson,r01746,Aeris to acquire IoT business from Ericsson,0.9688,NEAR_DUP_MERGE
+43,1777,r00043,Samsung Showcases Groundbreaking Logic Innovations at System LSI Tech Day 2023,r01777,Samsung Showcases Groundbreaking Logic Innovations at System LSI Tech Day 2023,0.8438,NEAR_DUP_REJECT
+55,1896,r00055,Best Live TV Streaming Services of 2023,r01896,Best Live TV Streaming Services of 2023,0.5156,NEAR_DUP_REJECT
+59,1819,r00059,Technology Research Services Market Size Outlook By KeyPlayers-G2 Gartner Forres,r01819,Interactive and Self Service Kiosk Market Size Information Technology Insights: ,0.375,NEAR_DUP_REJECT
+152,1846,r00152,Fidelity National Information Services Inc. declares $0.52 dividend,r01846,Givex Information Technology Group reports Q4 results,0.6406,NEAR_DUP_REJECT
+155,4010,r00155,Find free newcomer services near you,r04010,Healey Driscoll Announce Economic Technology Services Security Heads,0.6562,NEAR_DUP_REJECT
+208,3368,r00208,Culture Biosciences Focuses Technology and Service Platform on Biologics,r03368,Culture Biosciences Focuses Technology and Service Platform on Biologics,0.9844,NEAR_DUP_MERGE
+211,1852,r00211,Tech Media & Telecom Roundup: Market Talk,r01852,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+261,265,r00261,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private ,r00265,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private ,0.3125,NEAR_DUP_REJECT
+265,891,r00265,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private ,r00891,L T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private ,0.6719,NEAR_DUP_REJECT
+265,3296,r00265,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private ,r03296,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private ,0.7031,NEAR_DUP_REJECT
+288,1419,r00288,Sensormatic Solutions by Johnson Controls shares 2022 U.S. Super Saturday shoppe,r01419,Sensormatic Solutions by Johnson Controls shares 2022 U.S. Super Saturday shoppe,0.5938,NEAR_DUP_REJECT
+302,1423,r00302,Tech Media & Telecom Roundup: Market Talk,r01423,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+302,1804,r00302,Tech Media & Telecom Roundup: Market Talk,r01804,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+302,1865,r00302,Tech Media & Telecom Roundup: Market Talk,r01865,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+302,1894,r00302,Tech Media & Telecom Roundup: Market Talk,r01894,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+302,2071,r00302,Tech Media & Telecom Roundup: Market Talk,r02071,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+302,2208,r00302,Tech Media & Telecom Roundup: Market Talk,r02208,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+302,2224,r00302,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.5156,NEAR_DUP_REJECT
+302,2494,r00302,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+302,2501,r00302,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+302,2624,r00302,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+302,2890,r00302,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+302,2902,r00302,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.5156,NEAR_DUP_REJECT
+302,2906,r00302,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+302,2967,r00302,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+302,3004,r00302,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+302,3052,r00302,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+302,3163,r00302,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+302,3286,r00302,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+302,3323,r00302,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+302,3348,r00302,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+482,765,r00482,Truescope Acquires US Firm Universal Information Services,r00765,Truescope Acquires US Firm Universal Information Services,0.7344,NEAR_DUP_REJECT
+485,1814,r00485,New technology jobs needed for AI,r01814,New technology jobs needed for AI,0.875,NEAR_DUP_MERGE
+595,2961,r00595,Should You Sell Fidelity National Information Services (FIS) Now?,r02961,Fidelity National Information Services (FIS) Stock Declined in Q4 on Financial G,0.6562,NEAR_DUP_REJECT
+602,948,r00602,Friday Sector Laggards: Services Technology & Communications,r00948,Wednesday Sector Laggards: Services Technology & Communications,0.5312,NEAR_DUP_REJECT
+607,2226,r00607,To provide information about Cloud services and infrastructure: SSAC FOI respons,r02226,Plan to forge a better Britain through science and technology unveiled,0.5312,NEAR_DUP_REJECT
+607,2608,r00607,To provide information about Cloud services and infrastructure: SSAC FOI respons,r02608,Connect to a supported accommodation service (SC2),0.7188,NEAR_DUP_REJECT
+626,1192,r00626,PDF Solutions Inc. (NASDAQ:PDFS) Q3 2022 Earnings Call Transcript,r01192,Key Tronic Corporation Announces Third Quarter Reporting Date,0.9219,NEAR_DUP_MERGE
+643,4343,r00643,Low-code/no-code platforms and SaaS: the next evolution in clinical trial techno,r04343,Low-code/no-code platforms and SaaS: the next evolution in clinical trial techno,0.6875,NEAR_DUP_REJECT
+782,1501,r00782,Alight launches new behavioral health navigation services aimed at supporting in,r01501,Alight launches new behavioral health navigation services aimed at supporting in,0.9062,NEAR_DUP_MERGE
+794,2961,r00794,Do You Think Fidelity National Information Services (FIS)’s Current Valuation is,r02961,Fidelity National Information Services (FIS) Stock Declined in Q4 on Financial G,0.5625,NEAR_DUP_REJECT
+885,1004,r00885,Information Services Group Inc. (NASDAQ:III) is a favorite amongst institutional,r01004,Information Services Group Inc. (NASDAQ:III) is a favorite amongst institutional,0.9219,NEAR_DUP_MERGE
+891,3296,r00891,L T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private ,r03296,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private ,0.8594,NEAR_DUP_MERGE
+944,4100,r00944,CereCore® expands healthcare technology services into the UK,r04100,CereCore expands healthcare technology services into the UK,0.9844,NEAR_DUP_MERGE
+960,2094,r00960,Esri Signs Agreement with Malta Providing Access to GIS Technology Training,r02094,Esri Signs Agreement with Malta Providing Access to GIS Technology Training,0.9688,NEAR_DUP_MERGE
+1177,2590,r01177,What are some of the latest trends and innovations in VPN technology and service,r02590,What are some of the latest trends and innovations in VPN technology and service,0.7969,NEAR_DUP_REJECT
+1183,3773,r01183,Survival in the Skies: The Story of Stealth Technology,r03773,Survival in the Skies: The Story of Stealth Technology,0.7656,NEAR_DUP_REJECT
+1222,3125,r01222,The Institution of Engineering and Technology (IET) successfully concludes IET F,r03125,The Institution of Engineering and Technology (IET) successfully concludes IET F,0.8125,NEAR_DUP_REJECT
+1237,2347,r01237,Student Information,r02347,Student Information,0.7344,NEAR_DUP_REJECT
+1384,3080,r01384,Talent Acquisition and Staffing Technology and Services Market Growth | 2030,r03080,Talent Acquisition and Staffing Technology and Services Market Global Demand Opp,0.3906,NEAR_DUP_REJECT
+1423,1804,r01423,Tech Media & Telecom Roundup: Market Talk,r01804,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1423,1865,r01423,Tech Media & Telecom Roundup: Market Talk,r01865,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1423,1894,r01423,Tech Media & Telecom Roundup: Market Talk,r01894,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+1423,2071,r01423,Tech Media & Telecom Roundup: Market Talk,r02071,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+1423,2208,r01423,Tech Media & Telecom Roundup: Market Talk,r02208,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+1423,2224,r01423,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+1423,2494,r01423,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1423,2496,r01423,Tech Media & Telecom Roundup: Market Talk,r02496,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+1423,2501,r01423,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+1423,2535,r01423,Tech Media & Telecom Roundup: Market Talk,r02535,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+1423,2624,r01423,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+1423,2890,r01423,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+1423,2902,r01423,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+1423,2906,r01423,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+1423,2967,r01423,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+1423,2989,r01423,Tech Media & Telecom Roundup: Market Talk,r02989,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+1423,3004,r01423,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+1423,3052,r01423,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.7812,NEAR_DUP_REJECT
+1423,3083,r01423,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1423,3163,r01423,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1423,3286,r01423,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1423,3323,r01423,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1423,3348,r01423,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1423,3360,r01423,Tech Media & Telecom Roundup: Market Talk,r03360,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+1423,3374,r01423,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+1423,3439,r01423,Tech Media & Telecom Roundup: Market Talk,r03439,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+1470,2460,r01470,US announces criminal cases involving flow of technology information to Russia C,r02460,US announces criminal cases involving flow of technology information to Russia C,0.3594,NEAR_DUP_REJECT
+1470,3710,r01470,US announces criminal cases involving flow of technology information to Russia C,r03710,US Announces Criminal Cases Involving Flow of Technology Information to Russia C,0.8281,NEAR_DUP_REJECT
+1523,3265,r01523,Fidelity National Information Services (FIS) Stock Moves -0.9%: What You Should ,r03265,Fidelity National Information Services (FIS) Stock Moves -0.9%: What You Should ,0.5156,NEAR_DUP_REJECT
+1785,3306,r01785,INFORMATION SERVICES GROUP INC,r03306,INFORMATION SERVICES GROUP INC,0.8438,NEAR_DUP_REJECT
+1804,1852,r01804,Tech Media & Telecom Roundup: Market Talk,r01852,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1804,1865,r01804,Tech Media & Telecom Roundup: Market Talk,r01865,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1804,1894,r01804,Tech Media & Telecom Roundup: Market Talk,r01894,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+1804,1895,r01804,Tech Media & Telecom Roundup: Market Talk,r01895,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+1804,2071,r01804,Tech Media & Telecom Roundup: Market Talk,r02071,Tech Media & Telecom Roundup: Market Talk,0.7969,NEAR_DUP_REJECT
+1804,2208,r01804,Tech Media & Telecom Roundup: Market Talk,r02208,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+1804,2224,r01804,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.75,NEAR_DUP_REJECT
+1804,2363,r01804,Tech Media & Telecom Roundup: Market Talk,r02363,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1804,2494,r01804,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+1804,2496,r01804,Tech Media & Telecom Roundup: Market Talk,r02496,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+1804,2501,r01804,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+1804,2535,r01804,Tech Media & Telecom Roundup: Market Talk,r02535,Tech Media & Telecom Roundup: Market Talk,0.4219,NEAR_DUP_REJECT
+1804,2585,r01804,Tech Media & Telecom Roundup: Market Talk,r02585,Tech Media & Telecom Roundup: Market Talk,0.4219,NEAR_DUP_REJECT
+1804,2624,r01804,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+1804,2867,r01804,Tech Media & Telecom Roundup: Market Talk,r02867,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1804,2890,r01804,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+1804,2902,r01804,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+1804,2906,r01804,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1804,2967,r01804,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.7969,NEAR_DUP_REJECT
+1804,3004,r01804,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+1804,3052,r01804,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+1804,3083,r01804,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+1804,3163,r01804,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.7656,NEAR_DUP_REJECT
+1804,3286,r01804,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+1804,3323,r01804,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+1804,3348,r01804,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1839,2992,r01839,Why Operators Need a Full-Service Technology Partner,r02992,Restaurant Tech: Why Operators Need a Full-Service Technology Partner,0.8906,NEAR_DUP_MERGE
+1852,2071,r01852,Tech Media & Telecom Roundup: Market Talk,r02071,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+1852,2224,r01852,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1852,2494,r01852,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1852,2890,r01852,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+1852,2967,r01852,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1852,3004,r01852,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1852,3083,r01852,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1852,3163,r01852,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+1852,3286,r01852,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1852,3323,r01852,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+1865,1894,r01865,Tech Media & Telecom Roundup: Market Talk,r01894,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1865,2071,r01865,Tech Media & Telecom Roundup: Market Talk,r02071,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1865,2208,r01865,Tech Media & Telecom Roundup: Market Talk,r02208,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1865,2224,r01865,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1865,2494,r01865,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+1865,2501,r01865,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1865,2624,r01865,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1865,2890,r01865,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+1865,2902,r01865,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+1865,2906,r01865,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+1865,2967,r01865,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1865,3004,r01865,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1865,3052,r01865,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1865,3083,r01865,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1865,3163,r01865,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1865,3286,r01865,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1865,3323,r01865,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1865,3348,r01865,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+1865,3374,r01865,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+1894,2071,r01894,Tech Media & Telecom Roundup: Market Talk,r02071,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+1894,2208,r01894,Tech Media & Telecom Roundup: Market Talk,r02208,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+1894,2224,r01894,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+1894,2363,r01894,Tech Media & Telecom Roundup: Market Talk,r02363,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+1894,2494,r01894,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+1894,2496,r01894,Tech Media & Telecom Roundup: Market Talk,r02496,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+1894,2501,r01894,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.9219,NEAR_DUP_MERGE
+1894,2535,r01894,Tech Media & Telecom Roundup: Market Talk,r02535,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+1894,2585,r01894,Tech Media & Telecom Roundup: Market Talk,r02585,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+1894,2624,r01894,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+1894,2890,r01894,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1894,2902,r01894,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+1894,2906,r01894,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+1894,2967,r01894,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+1894,3004,r01894,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+1894,3052,r01894,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.75,NEAR_DUP_REJECT
+1894,3083,r01894,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+1894,3163,r01894,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+1894,3286,r01894,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+1894,3323,r01894,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+1894,3348,r01894,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+1894,3374,r01894,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+1895,2071,r01895,Tech Media & Telecom Roundup: Market Talk,r02071,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+1895,2224,r01895,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+1895,2363,r01895,Tech Media & Telecom Roundup: Market Talk,r02363,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+1895,2867,r01895,Tech Media & Telecom Roundup: Market Talk,r02867,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+1895,2890,r01895,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.375,NEAR_DUP_REJECT
+1895,2967,r01895,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+1895,3083,r01895,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.4219,NEAR_DUP_REJECT
+1895,3163,r01895,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+1895,3286,r01895,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+1895,3323,r01895,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.4219,NEAR_DUP_REJECT
+1965,2578,r01965,Australian Firms Embrace Hybrid Clouds for Transformation,r02578,More Brazilian Firms Are Turning to Hybrid Clouds for Help,0.6562,NEAR_DUP_REJECT
+1965,2600,r01965,Australian Firms Embrace Hybrid Clouds for Transformation,r02600,Cautious U.S. Firms Still Seeking Benefits of Hybrid Clouds,0.7031,NEAR_DUP_REJECT
+2071,2208,r02071,Tech Media & Telecom Roundup: Market Talk,r02208,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2071,2224,r02071,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.7812,NEAR_DUP_REJECT
+2071,2363,r02071,Tech Media & Telecom Roundup: Market Talk,r02363,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2071,2494,r02071,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.7656,NEAR_DUP_REJECT
+2071,2501,r02071,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+2071,2624,r02071,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+2071,2867,r02071,Tech Media & Telecom Roundup: Market Talk,r02867,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2071,2890,r02071,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+2071,2902,r02071,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2071,2906,r02071,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+2071,2967,r02071,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.8281,NEAR_DUP_REJECT
+2071,3004,r02071,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+2071,3052,r02071,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2071,3083,r02071,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.75,NEAR_DUP_REJECT
+2071,3163,r02071,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.75,NEAR_DUP_REJECT
+2071,3286,r02071,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.7969,NEAR_DUP_REJECT
+2071,3323,r02071,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+2071,3348,r02071,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+2071,3374,r02071,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+2090,4922,r02090,Who keeps calling me? Look up numbers flagged as potential robocalls or spam,r04922,Who keeps calling me? Look up numbers flagged as potential robo-calls or spam,0.8125,NEAR_DUP_REJECT
+2204,3514,r02204,Best Live TV Streaming Service for Cord Cutters in 2023,r03514,How We Test Products and Services,0.8906,NEAR_DUP_MERGE
+2208,2224,r02208,Tech Media & Telecom Roundup: Market Talk,r02224,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2208,2363,r02208,Tech Media & Telecom Roundup: Market Talk,r02363,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+2208,2494,r02208,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2208,2496,r02208,Tech Media & Telecom Roundup: Market Talk,r02496,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+2208,2501,r02208,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+2208,2535,r02208,Tech Media & Telecom Roundup: Market Talk,r02535,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+2208,2585,r02208,Tech Media & Telecom Roundup: Market Talk,r02585,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+2208,2624,r02208,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.7812,NEAR_DUP_REJECT
+2208,2890,r02208,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+2208,2902,r02208,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2208,2906,r02208,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+2208,2967,r02208,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2208,3004,r02208,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+2208,3052,r02208,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+2208,3083,r02208,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2208,3163,r02208,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2208,3286,r02208,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2208,3323,r02208,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2208,3348,r02208,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+2208,3374,r02208,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2210,4441,r02210,CUPP to Service Chiefs: Adopt technology strategy to tackle Nigeria’s security c,r04441,CUPP to New Service Chiefs: Adopt technology strategy to tackle security challen,0.75,NEAR_DUP_REJECT
+2224,2363,r02224,Tech Media & Telecom Roundup: Market Talk,r02363,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+2224,2494,r02224,Tech Media & Telecom Roundup: Market Talk,r02494,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+2224,2501,r02224,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+2224,2624,r02224,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+2224,2867,r02224,Tech Media & Telecom Roundup: Market Talk,r02867,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+2224,2890,r02224,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2224,2902,r02224,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2224,2906,r02224,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2224,2967,r02224,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+2224,3004,r02224,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+2224,3052,r02224,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2224,3083,r02224,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+2224,3163,r02224,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+2224,3286,r02224,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+2224,3323,r02224,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+2224,3348,r02224,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+2224,3374,r02224,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+2226,2608,r02226,Plan to forge a better Britain through science and technology unveiled,r02608,Connect to a supported accommodation service (SC2),0.5938,NEAR_DUP_REJECT
+2344,2854,r02344,Tech Media & Telecom Roundup: Market Talk,r02854,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+2363,2496,r02363,Tech Media & Telecom Roundup: Market Talk,r02496,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+2363,2501,r02363,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.5156,NEAR_DUP_REJECT
+2363,2535,r02363,Tech Media & Telecom Roundup: Market Talk,r02535,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+2363,2585,r02363,Tech Media & Telecom Roundup: Market Talk,r02585,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+2363,2624,r02363,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+2363,2867,r02363,Tech Media & Telecom Roundup: Market Talk,r02867,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2363,2890,r02363,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+2363,2906,r02363,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+2363,2967,r02363,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+2363,3004,r02363,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+2363,3083,r02363,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+2363,3163,r02363,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+2363,3286,r02363,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+2363,3323,r02363,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+2451,2523,r02451,3 Day Online Computer System Validation for Cloud and COTS Applications Training,r02523,3 Day Online Computer System Validation for Cloud and COTS Applications Training,0.4688,NEAR_DUP_REJECT
+2460,3710,r02460,US announces criminal cases involving flow of technology information to Russia C,r03710,US Announces Criminal Cases Involving Flow of Technology Information to Russia C,0.3594,NEAR_DUP_REJECT
+2478,3077,r02478,CBS Essentials: Tech,r03077,CBS Essentials: Tech,0.9844,NEAR_DUP_MERGE
+2494,2501,r02494,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+2494,2624,r02494,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2494,2890,r02494,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+2494,2902,r02494,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+2494,2906,r02494,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2494,2967,r02494,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.75,NEAR_DUP_REJECT
+2494,3004,r02494,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+2494,3052,r02494,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2494,3083,r02494,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2494,3163,r02494,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+2494,3286,r02494,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2494,3323,r02494,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2494,3348,r02494,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5156,NEAR_DUP_REJECT
+2496,2501,r02496,Tech Media & Telecom Roundup: Market Talk,r02501,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+2496,2535,r02496,Tech Media & Telecom Roundup: Market Talk,r02535,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+2496,2585,r02496,Tech Media & Telecom Roundup: Market Talk,r02585,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+2496,2624,r02496,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+2496,2890,r02496,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.3594,NEAR_DUP_REJECT
+2496,2906,r02496,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.4219,NEAR_DUP_REJECT
+2496,2967,r02496,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.4062,NEAR_DUP_REJECT
+2496,2989,r02496,Tech Media & Telecom Roundup: Market Talk,r02989,Tech Media & Telecom Roundup: Market Talk,0.5156,NEAR_DUP_REJECT
+2496,3004,r02496,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+2496,3163,r02496,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.3906,NEAR_DUP_REJECT
+2496,3348,r02496,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.4219,NEAR_DUP_REJECT
+2496,3360,r02496,Tech Media & Telecom Roundup: Market Talk,r03360,Tech Media & Telecom Roundup: Market Talk,0.5156,NEAR_DUP_REJECT
+2496,3439,r02496,Tech Media & Telecom Roundup: Market Talk,r03439,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+2501,2535,r02501,Tech Media & Telecom Roundup: Market Talk,r02535,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+2501,2585,r02501,Tech Media & Telecom Roundup: Market Talk,r02585,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+2501,2624,r02501,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+2501,2890,r02501,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2501,2902,r02501,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+2501,2906,r02501,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+2501,2967,r02501,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2501,3004,r02501,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2501,3052,r02501,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.8125,NEAR_DUP_REJECT
+2501,3083,r02501,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2501,3163,r02501,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2501,3286,r02501,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2501,3323,r02501,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2501,3348,r02501,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2532,2537,r02532,Exclusive: Amazon has drawn thousands to try its AI service competing with Micro,r02537,Amazon has drawn thousands to try its AI service competing with Microsoft Google,0.7812,NEAR_DUP_REJECT
+2535,2585,r02535,Tech Media & Telecom Roundup: Market Talk,r02585,Tech Media & Telecom Roundup: Market Talk,0.5156,NEAR_DUP_REJECT
+2535,2624,r02535,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+2535,2890,r02535,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.3594,NEAR_DUP_REJECT
+2535,2902,r02535,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+2535,2906,r02535,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+2535,2967,r02535,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.4219,NEAR_DUP_REJECT
+2535,2989,r02535,Tech Media & Telecom Roundup: Market Talk,r02989,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+2535,3004,r02535,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+2535,3052,r02535,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2535,3163,r02535,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+2535,3348,r02535,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+2535,3360,r02535,Tech Media & Telecom Roundup: Market Talk,r03360,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+2535,3439,r02535,Tech Media & Telecom Roundup: Market Talk,r03439,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+2578,2600,r02578,More Brazilian Firms Are Turning to Hybrid Clouds for Help,r02600,Cautious U.S. Firms Still Seeking Benefits of Hybrid Clouds,0.6719,NEAR_DUP_REJECT
+2585,2624,r02585,Tech Media & Telecom Roundup: Market Talk,r02624,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+2585,2890,r02585,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.3594,NEAR_DUP_REJECT
+2585,2906,r02585,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.3906,NEAR_DUP_REJECT
+2585,2967,r02585,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.4062,NEAR_DUP_REJECT
+2585,3004,r02585,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.4531,NEAR_DUP_REJECT
+2585,3163,r02585,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.4375,NEAR_DUP_REJECT
+2624,2890,r02624,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+2624,2902,r02624,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2624,2906,r02624,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+2624,2967,r02624,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+2624,2989,r02624,Tech Media & Telecom Roundup: Market Talk,r02989,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2624,3004,r02624,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+2624,3052,r02624,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.75,NEAR_DUP_REJECT
+2624,3083,r02624,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2624,3163,r02624,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2624,3286,r02624,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2624,3323,r02624,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2624,3348,r02624,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2624,3360,r02624,Tech Media & Telecom Roundup: Market Talk,r03360,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+2624,3374,r02624,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2624,3439,r02624,Tech Media & Telecom Roundup: Market Talk,r03439,Tech Media & Telecom Roundup: Market Talk,0.5,NEAR_DUP_REJECT
+2820,3957,r02820,Best VoIP Services (July 2023),r03957,Best VoIP Services (October 2023),0.7188,NEAR_DUP_REJECT
+2852,3920,r02852,411 phone number is going out of service for millions of Americans,r03920,411 is going out of service for millions of Americans,0.9219,NEAR_DUP_MERGE
+2867,2890,r02867,Tech Media & Telecom Roundup: Market Talk,r02890,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+2867,2967,r02867,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2867,3083,r02867,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+2867,3163,r02867,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+2867,3286,r02867,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2867,3323,r02867,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2890,2902,r02890,Tech Media & Telecom Roundup: Market Talk,r02902,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+2890,2906,r02890,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2890,2967,r02890,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.6406,NEAR_DUP_REJECT
+2890,3004,r02890,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.625,NEAR_DUP_REJECT
+2890,3052,r02890,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+2890,3083,r02890,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2890,3163,r02890,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+2890,3286,r02890,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+2890,3323,r02890,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2890,3348,r02890,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2902,2906,r02902,Tech Media & Telecom Roundup: Market Talk,r02906,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+2902,2967,r02902,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+2902,3004,r02902,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+2902,3052,r02902,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.7656,NEAR_DUP_REJECT
+2902,3163,r02902,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+2902,3286,r02902,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+2902,3323,r02902,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.5156,NEAR_DUP_REJECT
+2902,3348,r02902,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+2906,2967,r02906,Tech Media & Telecom Roundup: Market Talk,r02967,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2906,3004,r02906,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2906,3052,r02906,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+2906,3083,r02906,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+2906,3163,r02906,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2906,3286,r02906,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2906,3323,r02906,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+2906,3348,r02906,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+2906,3374,r02906,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2967,3004,r02967,Tech Media & Telecom Roundup: Market Talk,r03004,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+2967,3052,r02967,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.6562,NEAR_DUP_REJECT
+2967,3083,r02967,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+2967,3163,r02967,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+2967,3286,r02967,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+2967,3323,r02967,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+2967,3348,r02967,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5312,NEAR_DUP_REJECT
+2967,3374,r02967,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+2989,3348,r02989,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.4062,NEAR_DUP_REJECT
+2989,3360,r02989,Tech Media & Telecom Roundup: Market Talk,r03360,Tech Media & Telecom Roundup: Market Talk,0.5156,NEAR_DUP_REJECT
+2989,3439,r02989,Tech Media & Telecom Roundup: Market Talk,r03439,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+3004,3052,r03004,Tech Media & Telecom Roundup: Market Talk,r03052,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+3004,3083,r03004,Tech Media & Telecom Roundup: Market Talk,r03083,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+3004,3163,r03004,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.7188,NEAR_DUP_REJECT
+3004,3286,r03004,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.7031,NEAR_DUP_REJECT
+3004,3323,r03004,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+3004,3348,r03004,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+3004,3374,r03004,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+3052,3163,r03052,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+3052,3286,r03052,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+3052,3323,r03052,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+3052,3348,r03052,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+3083,3163,r03083,Tech Media & Telecom Roundup: Market Talk,r03163,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+3083,3286,r03083,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+3083,3323,r03083,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.7969,NEAR_DUP_REJECT
+3083,3348,r03083,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5625,NEAR_DUP_REJECT
+3083,3374,r03083,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+3127,3288,r03127,Meta launches subscription service in US,r03288,Meta launches subscription service in US,0.8594,NEAR_DUP_MERGE
+3145,4401,r03145,DOD Requests Commercial Tech Ideas for Countering Multi-Domain Uncrewed Systems,r04401,Army Previews Information Network Support Requirement,0.5156,NEAR_DUP_REJECT
+3163,3286,r03163,Tech Media & Telecom Roundup: Market Talk,r03286,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+3163,3323,r03163,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.7344,NEAR_DUP_REJECT
+3163,3348,r03163,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5781,NEAR_DUP_REJECT
+3271,3314,r03271,Technology News,r03314,Technology News,0.75,NEAR_DUP_REJECT
+3286,3323,r03286,Tech Media & Telecom Roundup: Market Talk,r03323,Tech Media & Telecom Roundup: Market Talk,0.6875,NEAR_DUP_REJECT
+3286,3348,r03286,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5469,NEAR_DUP_REJECT
+3286,3374,r03286,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.6719,NEAR_DUP_REJECT
+3290,3412,r03290,Stock market today: Wall Street is mixed; Big Tech climbs,r03412,Stock market today: Wall Street is mixed; Big Tech climbs,0.9375,NEAR_DUP_MERGE
+3323,3348,r03323,Tech Media & Telecom Roundup: Market Talk,r03348,Tech Media & Telecom Roundup: Market Talk,0.5938,NEAR_DUP_REJECT
+3323,3374,r03323,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.6094,NEAR_DUP_REJECT
+3325,3883,r03325,Spam calls/texts have increased so can they be stopped?,r03883,Spam calls/texts have increased so can they be stopped?,0.8906,NEAR_DUP_MERGE
+3340,3866,r03340,Top 20 Information Technology Countries in the World,r03866,Top 20 Information Technology Countries in the World,0.5781,NEAR_DUP_REJECT
+3348,3360,r03348,Tech Media & Telecom Roundup: Market Talk,r03360,Tech Media & Telecom Roundup: Market Talk,0.3906,NEAR_DUP_REJECT
+3348,3374,r03348,Tech Media & Telecom Roundup: Market Talk,r03374,Tech Media & Telecom Roundup: Market Talk,0.4844,NEAR_DUP_REJECT
+3348,3439,r03348,Tech Media & Telecom Roundup: Market Talk,r03439,Tech Media & Telecom Roundup: Market Talk,0.3906,NEAR_DUP_REJECT
+3360,3439,r03360,Tech Media & Telecom Roundup: Market Talk,r03439,Tech Media & Telecom Roundup: Market Talk,0.4688,NEAR_DUP_REJECT
+3538,3706,r03538,Hospital computer systems in 5 states hit by cyberattack,r03706,Hospital computer system in Texas hit by cyberattack,0.7812,NEAR_DUP_REJECT
+3732,3887,r03732,Best Gaming Laptops From CES 2023 So Far,r03887,Best Gaming Laptops at CES From Performance Beasts to Budget Gems,0.8281,NEAR_DUP_REJECT
+3795,4372,r03795,Knicks rally to beat Pacers 109-106 for 7th straight victory,r04372,Knicks rally to beat Pacers 109-106 for 7th straight victory,0.9844,NEAR_DUP_MERGE
+4094,4766,r04094,UKG Celebrates 2022 Technology and Service Partners of the Year,r04766,UKG Celebrates 2022 Technology and Service Partners of the Year,0.6875,NEAR_DUP_REJECT
+4096,4363,r04096,Telephone and Texting Compliance News: Regulatory Update — FCC Extends STIR/SHAK,r04363,Telephone and Texting Compliance News: Regulatory Update — Industry Traceback Gr,0.625,NEAR_DUP_REJECT

@@ -1,0 +1,27 @@
+type,left,right,similarity,decision,reason
+Company,Apple Inc,Apple,1.0,MERGE_MANUAL,MANUAL_ALIAS_TABLE
+Company,Meta Platforms,Meta,1.0,MERGE_MANUAL,MANUAL_ALIAS_TABLE
+Company,Hugging Face,Hugging Face,1.0,MERGE_MANUAL,MANUAL_ALIAS_TABLE
+Company,L&T Technology Services,L&T Technology Services Limited,0.9257733821868896,MERGE_VECTOR,SAME_AFTER_SUFFIX_STRIP
+Company,L&T Technology Services,L&T Technology (LTTS),0.8265604972839355,REJECT_BELOW_THRESHOLD,SIM<0.9
+Company,Fidelity National Information Services Inc,Fidelity National Information Services (FIS),0.8609499931335449,REJECT_BELOW_THRESHOLD,SIM<0.9
+Company,Information Services Group Inc,Information Services Corporation,0.8482142686843872,REJECT_BELOW_THRESHOLD,SIM<0.9
+Company,ServiceNow,ServiceNow Inc,0.8318828344345093,REJECT_BELOW_THRESHOLD,SIM<0.9
+Company,L&T Technology Services,L&T Technology (LTTS),0.8265604972839355,MERGE_LEXICAL,LEXICAL_RATIO_0.76
+Company,Fidelity National Information Services Inc,Fidelity National Information Services (FIS),0.8609499931335449,REJECT_GUARD,REJECT_SUBBRAND_CONTAINMENT
+Company,Syntax Health Inc,Syntax,0.49404507875442505,REJECT_GUARD,REJECT_SUBBRAND_CONTAINMENT
+Company,AXIS Capital Holdings Limited,Axis Security,0.5316777229309082,REJECT_GUARD,REJECT_LEXICAL_RATIO_0.64
+Company,Information Services Group Inc,Information Services Corporation,0.8482142686843872,MERGE_LEXICAL,SAME_AFTER_SUFFIX_STRIP
+Company,ServiceNow,ServiceNow Inc,0.8318828344345093,MERGE_LEXICAL,SAME_AFTER_SUFFIX_STRIP
+Company,Dell Technologies Inc,Dell,0.7472461462020874,REJECT_GUARD,REJECT_SUBBRAND_CONTAINMENT
+Company,Amazon,Amazon Web Services,0.6469883918762207,REJECT_GUARD,REJECT_SUBBRAND_CONTAINMENT
+Organization,Middlebury Institute community,Middlebury Institute,0.9254058003425598,REJECT_GUARD,REJECT_SUBBRAND_CONTAINMENT
+Organization,Information Technology Services (ITS),Information Services Group,0.6372098922729492,REJECT_GUARD,REJECT_SUBBRAND_CONTAINMENT
+Organization,Middlebury Institute community,Middlebury Institute,0.925405740737915,REJECT_GUARD,REJECT_SUBBRAND_CONTAINMENT
+Organization,Middlebury Institute community,Middlebury College Network,0.7520931959152222,REJECT_GUARD,REJECT_LEXICAL_RATIO_0.50
+Organization,Middlebury Institute,Middlebury College Network,0.7428277730941772,REJECT_GUARD,REJECT_LEXICAL_RATIO_0.57
+Product,NASDAQ: AAPL,NASDAQ: META,0.6590064167976379,MERGE_LEXICAL,LEXICAL_RATIO_0.73
+Product,Climate Innovation Fund,Climate Pledge Fund,0.7520827054977417,REJECT_GUARD,REJECT_LEXICAL_RATIO_0.62
+Technology,AI software,AI tools,0.8836368322372437,REJECT_BELOW_THRESHOLD,SIM<0.9
+Technology,Google Pay,Google Cloud Marketplace,0.4759644865989685,REJECT_GUARD,REJECT_LEXICAL_RATIO_0.53
+Technology,AI software,AI tools,0.8836368322372437,REJECT_GUARD,REJECT_LEXICAL_RATIO_0.42
