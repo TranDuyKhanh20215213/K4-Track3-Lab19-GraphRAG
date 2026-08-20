@@ -1,0 +1,3 @@
+System,Avg_Comprehensiveness,Avg_Faithfulness,Avg_MultiHop_Reasoning,Avg_Latency_s,Avg_Tokens
+Flat RAG,4.8,4.88,4.76,2.25,932.9
+Hybrid GraphRAG,4.76,4.8,4.72,1.98,907.9
