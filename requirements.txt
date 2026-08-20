@@ -12,3 +12,6 @@ datasketch>=1.6.0
 datasets>=2.19.0
 python-dotenv>=1.0.0
 pytest>=8.0.0
+jupyter>=1.0.0
+nbconvert>=7.16.0
+ipykernel>=6.29.0

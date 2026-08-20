@@ -65,7 +65,7 @@ NEO4J_PASSWORD=<your-password>
 NEO4J_DATABASE=neo4j
 
 GROQ_API_KEY=gsk_...
-GROQ_MODEL=llama-3.3-70b-versatile
+GROQ_MODEL=openai/gpt-oss-120b
 
 JUDGE_PROVIDER=openai               # 'openai' hoặc 'groq'
 JUDGE_MODEL=gpt-4o-mini             # hoặc llama-3.3-70b-versatile
@@ -139,7 +139,7 @@ Day19-Track3-GraphRAG/
 ├── Day19_GraphRAG_vs_FlatRAG_Production_Lab_Guide.ipynb   # ★ File Notebook thực hành chính
 │
 ├── data/                                                 # 📁 Chứa dữ liệu & Golden schema
-│   └── golden_dataset.csv                                # Schema & 5 câu hỏi đánh giá mẫu (G01–G05)
+│   └── graphrag_golden_50_first5000_detailed.csv         # Golden dataset dùng cho GOLDEN_PATH trong notebook
 │
 ├── outputs/                                              # 📁 File kết quả xuất tự động từ notebook (*.csv)
 │   ├── graphrag_eval_results.csv                         # Chi tiết kết quả từng câu hỏi + điểm Judge
