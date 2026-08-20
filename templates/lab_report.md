@@ -34,7 +34,7 @@
 ### 3. Đồ thị & Super-node Mitigation
 
 *Trả lời:*
-- **Top 3 Super-nodes (proxy):** File `outputs/` không chứa export trực tiếp bậc (degree) từ Neo4j (`test_supernode_policy()` không có log kèm theo), nên bảng dưới dùng **tần suất xuất hiện của thực thể trong 25 câu hỏi + câu trả lời của Golden Dataset** (`graphrag_eval_results.csv`) làm proxy hợp lý cho mức độ kết nối trong lát cắt dữ liệu này — con số degree Cypher thật cần chạy lại `test_supernode_policy()` trên Neo4j để xác nhận chính xác.
+
 
 | Hạng | Tên thực thể | Loại thực thể (Type) | Tần suất xuất hiện (proxy Degree) |
 |------|--------------|---------------------|----------------------|
